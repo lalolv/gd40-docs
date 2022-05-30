@@ -69,8 +69,8 @@ const config = {
           },
           { to: "/blog", label: "博客", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+            href: "https://www.gd40.cn",
+            label: "访问官网",
             position: "right",
           },
         ],
